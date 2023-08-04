@@ -1,0 +1,15 @@
+C:\Nandhni\GitRepo\ConsoleGames\BlocksGame\BlocksGame\obj\Debug\net7.0\BlocksGame.csproj.AssemblyReference.cache
+C:\Nandhni\GitRepo\ConsoleGames\BlocksGame\BlocksGame\obj\Debug\net7.0\BlocksGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nandhni\GitRepo\ConsoleGames\BlocksGame\BlocksGame\obj\Debug\net7.0\BlocksGame.AssemblyInfoInputs.cache
+C:\Nandhni\GitRepo\ConsoleGames\BlocksGame\BlocksGame\obj\Debug\net7.0\BlocksGame.AssemblyInfo.cs
+C:\Nandhni\GitRepo\ConsoleGames\BlocksGame\BlocksGame\obj\Debug\net7.0\BlocksGame.csproj.CoreCompileInputs.cache
+C:\Nandhni\GitRepo\ConsoleGames\BlocksGame\BlocksGame\bin\Debug\net7.0\BlocksGame.exe
+C:\Nandhni\GitRepo\ConsoleGames\BlocksGame\BlocksGame\bin\Debug\net7.0\BlocksGame.deps.json
+C:\Nandhni\GitRepo\ConsoleGames\BlocksGame\BlocksGame\bin\Debug\net7.0\BlocksGame.runtimeconfig.json
+C:\Nandhni\GitRepo\ConsoleGames\BlocksGame\BlocksGame\bin\Debug\net7.0\BlocksGame.dll
+C:\Nandhni\GitRepo\ConsoleGames\BlocksGame\BlocksGame\bin\Debug\net7.0\BlocksGame.pdb
+C:\Nandhni\GitRepo\ConsoleGames\BlocksGame\BlocksGame\obj\Debug\net7.0\BlocksGame.dll
+C:\Nandhni\GitRepo\ConsoleGames\BlocksGame\BlocksGame\obj\Debug\net7.0\refint\BlocksGame.dll
+C:\Nandhni\GitRepo\ConsoleGames\BlocksGame\BlocksGame\obj\Debug\net7.0\BlocksGame.pdb
+C:\Nandhni\GitRepo\ConsoleGames\BlocksGame\BlocksGame\obj\Debug\net7.0\BlocksGame.genruntimeconfig.cache
+C:\Nandhni\GitRepo\ConsoleGames\BlocksGame\BlocksGame\obj\Debug\net7.0\ref\BlocksGame.dll

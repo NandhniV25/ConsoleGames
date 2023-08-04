@@ -1,0 +1,15 @@
+C:\Nandhni\GitRepo\ConsoleGames\CarRace\CarRace\obj\Debug\net7.0\CarRace.csproj.AssemblyReference.cache
+C:\Nandhni\GitRepo\ConsoleGames\CarRace\CarRace\obj\Debug\net7.0\CarRace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nandhni\GitRepo\ConsoleGames\CarRace\CarRace\obj\Debug\net7.0\CarRace.AssemblyInfoInputs.cache
+C:\Nandhni\GitRepo\ConsoleGames\CarRace\CarRace\obj\Debug\net7.0\CarRace.AssemblyInfo.cs
+C:\Nandhni\GitRepo\ConsoleGames\CarRace\CarRace\obj\Debug\net7.0\CarRace.csproj.CoreCompileInputs.cache
+C:\Nandhni\GitRepo\ConsoleGames\CarRace\CarRace\bin\Debug\net7.0\CarRace.exe
+C:\Nandhni\GitRepo\ConsoleGames\CarRace\CarRace\bin\Debug\net7.0\CarRace.deps.json
+C:\Nandhni\GitRepo\ConsoleGames\CarRace\CarRace\bin\Debug\net7.0\CarRace.runtimeconfig.json
+C:\Nandhni\GitRepo\ConsoleGames\CarRace\CarRace\bin\Debug\net7.0\CarRace.dll
+C:\Nandhni\GitRepo\ConsoleGames\CarRace\CarRace\bin\Debug\net7.0\CarRace.pdb
+C:\Nandhni\GitRepo\ConsoleGames\CarRace\CarRace\obj\Debug\net7.0\CarRace.dll
+C:\Nandhni\GitRepo\ConsoleGames\CarRace\CarRace\obj\Debug\net7.0\refint\CarRace.dll
+C:\Nandhni\GitRepo\ConsoleGames\CarRace\CarRace\obj\Debug\net7.0\CarRace.pdb
+C:\Nandhni\GitRepo\ConsoleGames\CarRace\CarRace\obj\Debug\net7.0\CarRace.genruntimeconfig.cache
+C:\Nandhni\GitRepo\ConsoleGames\CarRace\CarRace\obj\Debug\net7.0\ref\CarRace.dll
