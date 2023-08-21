@@ -1,0 +1,15 @@
+C:\Nandhni\GitRepo\ConsoleGames\SnakeGame\SnakeGame\bin\Debug\net7.0\SnakeGame.exe
+C:\Nandhni\GitRepo\ConsoleGames\SnakeGame\SnakeGame\bin\Debug\net7.0\SnakeGame.deps.json
+C:\Nandhni\GitRepo\ConsoleGames\SnakeGame\SnakeGame\bin\Debug\net7.0\SnakeGame.runtimeconfig.json
+C:\Nandhni\GitRepo\ConsoleGames\SnakeGame\SnakeGame\bin\Debug\net7.0\SnakeGame.dll
+C:\Nandhni\GitRepo\ConsoleGames\SnakeGame\SnakeGame\bin\Debug\net7.0\SnakeGame.pdb
+C:\Nandhni\GitRepo\ConsoleGames\SnakeGame\SnakeGame\obj\Debug\net7.0\SnakeGame.csproj.AssemblyReference.cache
+C:\Nandhni\GitRepo\ConsoleGames\SnakeGame\SnakeGame\obj\Debug\net7.0\SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nandhni\GitRepo\ConsoleGames\SnakeGame\SnakeGame\obj\Debug\net7.0\SnakeGame.AssemblyInfoInputs.cache
+C:\Nandhni\GitRepo\ConsoleGames\SnakeGame\SnakeGame\obj\Debug\net7.0\SnakeGame.AssemblyInfo.cs
+C:\Nandhni\GitRepo\ConsoleGames\SnakeGame\SnakeGame\obj\Debug\net7.0\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Nandhni\GitRepo\ConsoleGames\SnakeGame\SnakeGame\obj\Debug\net7.0\SnakeGame.dll
+C:\Nandhni\GitRepo\ConsoleGames\SnakeGame\SnakeGame\obj\Debug\net7.0\refint\SnakeGame.dll
+C:\Nandhni\GitRepo\ConsoleGames\SnakeGame\SnakeGame\obj\Debug\net7.0\SnakeGame.pdb
+C:\Nandhni\GitRepo\ConsoleGames\SnakeGame\SnakeGame\obj\Debug\net7.0\SnakeGame.genruntimeconfig.cache
+C:\Nandhni\GitRepo\ConsoleGames\SnakeGame\SnakeGame\obj\Debug\net7.0\ref\SnakeGame.dll

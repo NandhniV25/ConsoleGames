@@ -1,0 +1,15 @@
+C:\Nandhni\GitRepo\ConsoleGames\TetrisBlockGame\TetrisBlockGame\obj\Debug\net7.0\TetrisBlockGame.csproj.AssemblyReference.cache
+C:\Nandhni\GitRepo\ConsoleGames\TetrisBlockGame\TetrisBlockGame\obj\Debug\net7.0\TetrisBlockGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nandhni\GitRepo\ConsoleGames\TetrisBlockGame\TetrisBlockGame\obj\Debug\net7.0\TetrisBlockGame.AssemblyInfoInputs.cache
+C:\Nandhni\GitRepo\ConsoleGames\TetrisBlockGame\TetrisBlockGame\obj\Debug\net7.0\TetrisBlockGame.AssemblyInfo.cs
+C:\Nandhni\GitRepo\ConsoleGames\TetrisBlockGame\TetrisBlockGame\obj\Debug\net7.0\TetrisBlockGame.csproj.CoreCompileInputs.cache
+C:\Nandhni\GitRepo\ConsoleGames\TetrisBlockGame\TetrisBlockGame\bin\Debug\net7.0\TetrisBlockGame.exe
+C:\Nandhni\GitRepo\ConsoleGames\TetrisBlockGame\TetrisBlockGame\bin\Debug\net7.0\TetrisBlockGame.deps.json
+C:\Nandhni\GitRepo\ConsoleGames\TetrisBlockGame\TetrisBlockGame\bin\Debug\net7.0\TetrisBlockGame.runtimeconfig.json
+C:\Nandhni\GitRepo\ConsoleGames\TetrisBlockGame\TetrisBlockGame\bin\Debug\net7.0\TetrisBlockGame.dll
+C:\Nandhni\GitRepo\ConsoleGames\TetrisBlockGame\TetrisBlockGame\bin\Debug\net7.0\TetrisBlockGame.pdb
+C:\Nandhni\GitRepo\ConsoleGames\TetrisBlockGame\TetrisBlockGame\obj\Debug\net7.0\TetrisBlockGame.dll
+C:\Nandhni\GitRepo\ConsoleGames\TetrisBlockGame\TetrisBlockGame\obj\Debug\net7.0\refint\TetrisBlockGame.dll
+C:\Nandhni\GitRepo\ConsoleGames\TetrisBlockGame\TetrisBlockGame\obj\Debug\net7.0\TetrisBlockGame.pdb
+C:\Nandhni\GitRepo\ConsoleGames\TetrisBlockGame\TetrisBlockGame\obj\Debug\net7.0\TetrisBlockGame.genruntimeconfig.cache
+C:\Nandhni\GitRepo\ConsoleGames\TetrisBlockGame\TetrisBlockGame\obj\Debug\net7.0\ref\TetrisBlockGame.dll
