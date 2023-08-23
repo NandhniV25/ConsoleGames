@@ -22,7 +22,7 @@ namespace TetrisBlockGame
         }
         public List<Block> CreateShape()
         {
-            var r = rand.Next(5);
+            var r = rand.Next(9);
             switch (r)
             {
                 case 0:
@@ -33,6 +33,14 @@ namespace TetrisBlockGame
                     return CreateHShape();
                 case 3:
                     return CreateLeftHShape();
+                case 4:
+                    return CreateLineVertical();
+                case 5:
+                    return CreateLineHorizondal();
+                case 6:
+                    return CreateSquare();
+                case 7:
+                    return CreateSquare();
                 default:
                     break;
             }

@@ -11,7 +11,7 @@ namespace SnakeGame
     {
         public int width, height, points;
         public ConsoleKey direction = ConsoleKey.RightArrow;
-        char snakeChar = '#';
+        char snakeChar = '$';
         char foodChar = '@';
         Random random = new Random();
         List<Block> snake = new List<Block>();
