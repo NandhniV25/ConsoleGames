@@ -1,6 +1,8 @@
 ### Snake Game
 This project contains classic snake game written in .Net console application.
 
+![color picker](https://raw.githubusercontent.com/NandhniV25/ConsoleGames/main/SnakeGame/SnakeGame.gif)
+
 ### Game Rule
 * Snake is list of continuouse blocks.
 * Snake can go in 4 direction. 
